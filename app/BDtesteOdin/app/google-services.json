@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "121805784113",
+    "firebase_url": "https://bdteste-b1752.firebaseio.com",
+    "project_id": "bdteste-b1752",
+    "storage_bucket": "bdteste-b1752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121805784113:android:5032fc65acb20fe7",
+        "android_client_info": {
+          "package_name": "com.odin.fsociety.bdtesteodin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121805784113-24i1d1h5clad7a2jtqe6fpa893f96ifn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdw7fpAKkTJt-KsvjfRV2JobK-OfI7mGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
